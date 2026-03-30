@@ -74,13 +74,13 @@
 - Subscription-based platforms
 - Automation tools
 
----
+<!-- ---
 
 ### 🤝 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/ravi0408  
 - 🐦 Twitter: https://twitter.com/ravi0408  
-- 🌐 Portfolio: https://ravi.dev  
+- 🌐 Portfolio: https://ravi.dev   -->
 
 ---
 
